@@ -1,0 +1,3 @@
+C:/Users/alial/Desktop/ostest/cmake-build-debug/CMakeFiles/ostest.dir
+C:/Users/alial/Desktop/ostest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alial/Desktop/ostest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alial/Desktop/ostest/CPU_Class.cpp
+CPU_Class.hpp
+C:/Users/alial/Desktop/ostest/CPU_Class.hpp
+
+C:/Users/alial/Desktop/ostest/CPU_Class.hpp
+algorithm
+-
+iostream
+-
+string
+-
+vector
+-
+queue
+-
+list
+-
+exception
+-
+
+C:/Users/alial/Desktop/ostest/main.cpp
+iostream
+-
+CPU_Class.hpp
+C:/Users/alial/Desktop/ostest/CPU_Class.hpp
+CPU_Class.cpp
+C:/Users/alial/Desktop/ostest/CPU_Class.cpp
+
